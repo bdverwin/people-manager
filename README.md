@@ -31,8 +31,8 @@ A Laravel 12 web application for managing **employees** and **departments**, wit
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/bdverwin/people-manager.git
+cd people-manager
 
 ### 2. Install PHP dependencies
 
